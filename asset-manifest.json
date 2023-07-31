@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mynetfli/static/css/main.974b87fe.css",
+    "main.js": "/mynetfli/static/js/main.83075b05.js",
+    "static/media/logo.png": "/mynetfli/static/media/logo.774e8c1632ac9433608b.png",
+    "index.html": "/mynetfli/index.html",
+    "main.974b87fe.css.map": "/mynetfli/static/css/main.974b87fe.css.map",
+    "main.83075b05.js.map": "/mynetfli/static/js/main.83075b05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.974b87fe.css",
+    "static/js/main.83075b05.js"
+  ]
+}
